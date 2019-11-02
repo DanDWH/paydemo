@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-web/pay-web.iml" filepath="$PROJECT_DIR$/pay-web/pay-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/paydemo.iml" filepath="$PROJECT_DIR$/paydemo.iml" />
     </modules>
   </component>
